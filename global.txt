@@ -1,0 +1,30 @@
+# BlockTube Filter List — Global (Personal Blocklist)
+# Format version: 1
+# Last updated: auto (do not edit this line manually)
+#
+# Mixed-language channels that don't fit a specific regional list.
+
+# ── Channel IDs ──────────────────────────────────────────────────────────────
+channel:UCwGhqz0quQxYwUTUXR1L7zQ # Sarva Ranjani | added:2026-05-04
+channel:UCGKhybfQ_UyhrocN8P2fTlw # Atlas Entertainment Studio | added:2026-05-04
+channel:UCv0WKeNN-GVbAtk0CtSYdaQ # USA Celebrities Zone | added:2026-05-04
+channel:UCq2GOZ_lvNNejwUVR0-PH4A # manifest-k9c | added:2026-05-10
+channel:UCKpLREwkVlWs4JBxxc4vmEQ # BlackPink Hardcore Fans 897 | added:2026-05-10
+channel:UC6oM35Q4Joo_U8KDLJAx0Wg # Rafis Ceferzade | added:2026-05-10
+channel:UCAehdd_GANoE63C3paAgXOw # ProdWache | added:2026-05-10
+channel:UCuSUzNXDR9w7iB32koFaGzQ # SoundAura | added:2026-05-10
+channel:UCeqjMGbQZkPSeH33uACW-RQ # Hicham Kimi | added:2026-05-10
+channel:UCO1cbcx_ii0xdhYAmQQIcYQ # Celebrity Fandom | added:2026-05-10
+channel:UClM_pKNqYx2pO4NFDKhbytg # MYWORLDBP | added:2026-05-14
+channel:UCwerxTUZnBlZ2fUrDa-rAYw # museroom | added:2026-06-11
+channel:UCzmzuUaxvKQrRnDF6u1FuKA # Dark Chamber Classics | added:2026-06-26
+channel:UCO8NuQKwoVUgUY4vr2AvrWg # Remastered HD | added:2026-06-26
+channel:UCJ5R3OlAHIa_gAldRVFLzvQ # Favourite Library | added:2026-06-26
+channel:UC057WBPi8BMOsFXT2R7CWOA # Elite Magazine | added:2026-06-26
+channel:UCxLGPs_KT-eUT1mdFFohYxw # MusicTimes | added:2026-06-26
+channel:UCMlp4LJeO1IZ7WW4Xuwcbkw # Bass Minus Tracks | added:2026-06-26
+channel:UCcfCkQEkIfUcfM0vLGEnlDg # Aura Sound Production | added:2026-06-26
+channel:UCP84wLuUK6xnWCkDUcGKNGA # Then And Now Transformation | added:2026-06-26
+channel:UCsHsLEzu0Cj71bCP2mNzqdw # ASTERI | added:2026-06-29
+channel:UC9CJmwJH4JbdC_HmZhXhUig # AsmrVideoTimes | added:2026-07-01
+channel:UCUoWmGK2FMVUj8qZ-jOyWFw # ShowTime | added:2026-07-01

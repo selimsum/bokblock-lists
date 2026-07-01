@@ -1,0 +1,53 @@
+name: Daily Release
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # Run at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Compute release tag
+        id: tag
+        run: echo "TAG=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Delete existing release for today (if any)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete "${{ steps.tag.outputs.TAG }}" --yes 2>/dev/null || true
+          git push --delete origin "refs/tags/${{ steps.tag.outputs.TAG }}" 2>/dev/null || true
+
+      - name: Create release and upload list files
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Update the "Last updated" line in each .txt file before uploading
+          for f in *.txt; do
+            sed -i "s/^# Last updated: .*/# Last updated: $(date -u +%Y-%m-%d)/" "$f"
+          done
+
+          # Create the release with all .txt files as assets
+          gh release create "${{ steps.tag.outputs.TAG }}" \
+            --title "Filter Lists ${{ steps.tag.outputs.TAG }}" \
+            --notes "Automated daily release of BlockTube filter lists." \
+            *.txt
+
+      - name: Update latest tag
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git tag -f latest
+          git push origin latest --force

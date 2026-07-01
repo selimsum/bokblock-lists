@@ -1,0 +1,22 @@
+# BlockTube Filter List — AI Slop (Global)
+# Format version: 1
+# Last updated: auto (do not edit this line manually)
+#
+# This list targets English-language channels and videos that are primarily
+# AI-generated slop: faceless AI narration, AI image slideshows, AI news
+# aggregators, and low-effort AI content farms.
+#
+# To contribute: use the "Report as AI Slop" button in the BlockTube extension.
+# See FORMAT.md for the rule format specification.
+
+# ── Channel IDs ──────────────────────────────────────────────────────────────
+# Add channel:UCxxxxxxxxxxxxxxxxx # Channel Name | added:YYYY-MM-DD
+
+# ── Title patterns ───────────────────────────────────────────────────────────
+title:/\bai[- ]generated\b/i
+title:/\bai[- ]created\b/i
+title:/\bai[- ]narrat(ed|ion)\b/i
+title:/\bmade (entirely |completely )?with ai\b/i
+title:/\b100%\s*ai\b/i
+
+# ── Channel name keywords ─────────────────────────────────────────────────────

@@ -1,0 +1,113 @@
+# BlockTube Filter List — Turkish Content Farms
+# Format version: 1
+# Last updated: auto (do not edit this line manually)
+#
+# Turkish-language music reupload channels, celebrity gossip, dizi (drama)
+# channels, and other low-quality Turkish content farms.
+
+# ── Channel IDs ──────────────────────────────────────────────────────────────
+channel:UCl2SokILrGaRhxZNUw2GuZg # MÜZİK RÜZGARI | added:2026-05-04
+channel:UCCC6PngIruYS9xQ-iGPmJ5g # Efe Burkay | added:2026-05-04
+channel:UCfpaXd3mpnUpJAU4rrZsPGg # TurkishTechnoStudio | added:2026-05-04
+channel:UC1SUmZc_JUINgDtuiNa0wCw # ŞarkıcıBaba | added:2026-05-04
+channel:UCv-AVPYO_ho4NbK6yofkNOA # Kanal İZLE | added:2026-05-04
+channel:UCvGa1FrDcWsT0OKjQEja6Qw # Popüler Yüzler | added:2026-05-10
+channel:UCmkFRAlUnTNl5I7Lk3A4xig # Yıldızların Hikâyesi | added:2026-05-10
+channel:UCfDQXml7sP2rjKQT5jrLgVg # Dinlenir Bu | added:2026-05-10
+channel:UCRzw3cPOjMg4Api77MjS9Fw # Anadolurockmüzik | added:2026-05-10
+channel:UCsYAy0e8s9sMQE_wBgru7lw # Müzik Keyfi | added:2026-05-10
+channel:UCbucKP7TM_JgnRj2Ew4HRqQ # Ceyhun Yılmaz | added:2026-05-10
+channel:UC9tRMpt9Z_cpEtdt10T7DgQ # Albüm Plak CD Kaset Müzik Kartonet Kapakları | added:2026-05-10
+channel:UCzqy_Gw8Rdy0sAKqhCHL2Jg # SerkanSound | added:2026-05-10
+channel:UCeQHDjwpbzJKrqbCOlVmyvg # HaberNet | added:2026-05-10
+channel:UCSxmB_Etn5J1ko8LQKd15tA # Türkçe Klip Saati | added:2026-05-10
+channel:UCiu56y9FXXQy8WIqBAzXSKg # Gri Fotoğraf Atölyesi | added:2026-05-10
+channel:UCTNbeATpmIlm7H1LJPYmR5A # Müzik evreni | added:2026-05-10
+channel:UCE9oLg4P5oLa1mKcLkFsMsw # kurtuluş Burak (FAN) | added:2026-05-10
+channel:UCY1rVKJWi9W4jFkj1uJTUWA # Flow360 | added:2026-05-10
+channel:UC2ZZNP8fPxKnO2dj87_ivag # Aura Replica Türkiye | added:2026-05-10
+channel:UCmUpNcIjEApa7iOVw7lhwVg # KRM MÜZİK | added:2026-05-10
+channel:UCZmfJKTTmPLWAbHsuM3YQ9w # unluler tayfas | added:2026-05-10
+channel:UC4rhxgYTmYMKFU1qfRATuXQ # Sosial Netd | added:2026-05-10
+channel:UCQMe997WMy4bLvX6MgqM14A # VATR Müzik | added:2026-05-10
+channel:UCT7VvtFjPtGrS0Z2kt3TYKg # DJ OYNAT GELSİN | added:2026-05-10
+channel:UCF7GVzp5Q5FXQ6mtwiXCi2Q # MusicMod | added:2026-05-10
+channel:UCEba-1bJjXER6KnTZvo_YDA # Zirve Sesler | added:2026-05-10
+channel:UCjBkLrI6VChSKOIiDu9ioxw # Uzun Sarkılar | added:2026-05-10
+channel:UCoS-g67xPEnH9mnZk7TqxDg # NS Anatolian Music | added:2026-05-10
+channel:UCCcIzQQcVkh9WJ8D9VbfSCg # Mix Babası | added:2026-05-10
+channel:UCm8D5LCqpoRsLQyozA0mqpA # M1NuteMusic | added:2026-05-10
+channel:UC1r_-M4V5irlNILQj7BeGNg # SILAM MUSİC | added:2026-05-10
+channel:UCYDPBXLP-X8hSevfIM9IbiQ # Muammer Sezgin | added:2026-05-10
+channel:UC5BEmaJC2pgJpFGGQXyKrsg # Rafo Pro | added:2026-05-10
+channel:UCoEHjk6wEwopkAA6ODmsr3Q # Erkan Chaita | added:2026-05-10
+channel:UCYfARvCZPU6Er8ddzo-ls6Q # AURVIONEX | added:2026-05-10
+channel:UCzmHJwK4HFFb3wMMIm3sOGQ # Remix Pro music | added:2026-05-10
+channel:UCMwPVcS033J485LL0fn0GUg # MİXHUB | added:2026-05-10
+channel:UCHEEwiTAMQc51IPVAjAQeAw # ALBÜM FREKANSI | added:2026-05-10
+channel:UCGPqhwfnzQvMOr0AVIAjA-g # SonMusic | added:2026-05-10
+channel:UCus4FbEXeZ4vJ5bkxhqA8Sw # Türkçe Pop Cover | added:2026-05-10
+channel:UCUZgrhivu2YQ4nVJC-iys0Q # NeXuent Corp. | added:2026-05-10
+channel:UCKs0Vg1ii8V3EZ5PdWdSMow # MÜZİKOLOJİ | added:2026-05-10
+channel:UCp_aTltIEHPx8pkDMAiQf2w # Akman | added:2026-05-10
+channel:UCfHr4TT9xKAgHaxOqQLBcxA # Anatolian Deep House Music | added:2026-05-10
+channel:UC26dU6dlNa3sn6fDKw1Os7g # Mor Bulut | added:2026-05-10
+channel:UCuCKcwDiYmtuZCmI1ZpZ5zA # Nota Sokağı | added:2026-05-10
+channel:UCmNKJvPDkhcbq-0W5ZApcTw # YARALI MELODİ | added:2026-05-10
+channel:UCAsPwW7KOq7aWkM0DomkaDQ # Karga Karaoke | added:2026-05-10
+channel:UCATP-BlOR0UiPgjUjMfM0bQ # Wolker Production | added:2026-05-10
+channel:UC-7NhrZOSZ9pCIeXvjB2wtQ # BozkırWave | added:2026-05-10
+channel:UCYZD6bTxm7lCRuCeDaenKZQ # REMİX PATLAT | added:2026-05-10
+channel:UC4dvAF1yFmIUIkJHgA5SeuA # Ünlü Dergisi | added:2026-05-10
+channel:UC4cgEskspqcCuAk5YqxkNug # Bunu Bilmiyordum | added:2026-05-10
+channel:UCTbf943UUedqrxz2dPdY8bA # Gecenin Yıldızları | added:2026-05-10
+channel:UCjB4L_UDvnJCOiKsGrZAczg # Magazin Haberi | added:2026-05-10
+channel:UCt7hUHD8UDOU7US2RtkA9ZA # Ferhat Dizi Fragman | added:2026-05-10
+channel:UC2B0TSLnivg5HiMCB8jzccg # Dizi Mozaik | added:2026-05-10
+channel:UCz16djRzi2z5w-I2GEQ78_A # KENAN MÜZİK | added:2026-05-12
+channel:UC7I0wFB7iJEFgCfZHiMthWw # Coverlife Music | added:2026-05-12
+channel:UCjjp1HTwogNH70cAPkOSjHA # Nur Studio | added:2026-05-12
+channel:UCZSBToQviyw-hPtifV_U7kg # ERTAŞ COVERS | added:2026-05-12
+channel:UCzgFWa6Sj1ytH0fix1jNc-g # Aura Muzik | added:2026-05-12
+channel:UChER4D6s2Hoz9GOtYSpWo4A # Trend Parçalar | added:2026-05-12
+channel:UCGJbLYvgFN00zObp9p-U4zw # MEGA MAG | added:2026-05-12
+channel:UClj1DR8WCHEDskAQaLrLcSA # Turkish Talent | added:2026-05-12
+channel:UCHk4RyP7g3XyasRcOdfdZjw # Drama y Fama Turca | added:2026-05-15
+channel:UC3_rpsnyaxyQhJdCUCgO57g # CineTurk TV | added:2026-05-15
+channel:UC4pQ7BIUUgbARZGnFHTycww # Frektra | added:2026-06-11
+channel:UC8nJV9gjQsKYfjzevtVG9MQ # Arda Soruyor | added:2026-06-26
+channel:UCaBbEl8tx5VcqRoMWvNUc1w # Yap de Yapalım | added:2026-06-26
+channel:UClCbNrQjQxKfxip9Qlp58uQ # Sepya Band Music | added:2026-06-26
+channel:UC-SHZkFFLp9leAlVD2NBYGg # TURK POP Arsivci | added:2026-06-26
+channel:UCaHGM-PRkhenC7KmcaHRGdw # Ali Apaydın | added:2026-06-26
+channel:UCtwgNNlW7ZJF3NTxCGQa0Lw # 1filmsepeti | added:2026-06-26
+channel:UCbx5MrnvDPERJp73tedJpow # ESKİ NOSTALJİ ŞARKİLAR | added:2026-06-26
+channel:UCzozs31UW9zQCvsad2LXiJQ # music turk | added:2026-06-26
+channel:UCUuPrG6RTN8d1BWVJHsC9rw # BVSTUDIO | added:2026-06-26
+channel:UCkpqBdHDBlerYE9TngEqSsQ # Kürşat Alper Alkaçır | added:2026-06-26
+channel:UC25H_cqQ-gj0IsjJ-QKOFrg # Yap de Yapalım (2) | added:2026-06-26
+channel:UCDOeQ_5HFg_Xu7GCkMmIEkg # Kemal Kısacık Music | added:2026-06-26
+channel:UCKaU8jq_YXVaKRz2S28A2Aw # speedz | added:2026-06-26
+channel:UCWxxX1v10hULOyYVyMporCQ # TemaTürk Music Entertainment | added:2026-06-26
+channel:UCS744DbTUW_e8EJ0ZoBrVOw # Kök Müzik | added:2026-06-26
+channel:UCz8xFOFxxX5x5yVG-zzsQhw # POLAT MÜZİK | added:2026-06-26
+channel:UCDOaJFMPJ7sIEHsSLyPiVeA # Ufuk KAPLAN | added:2026-06-26
+channel:UCt9n4HB2Mrv5eDn50jrabXg # Simge Özsağır | added:2026-06-26
+channel:UC50Mkh8V4K9HglcuKCo_8tw # Keriozzy | added:2026-06-26
+channel:UCVjMujJQ7uprmNL64y3s7NQ # GABORONLİ | added:2026-06-26
+channel:UC_h5ECrqIVSfCRhybLUIVMw # Simge Officiall | added:2026-06-26
+channel:UClE2F8Dy0QvunThIwNYfbOg # Bilalnaz Dumanogulları music | added:2026-06-26
+channel:UCvbb_FacVB2ujm0rs30yfUw # Aras'tan lyricsler | added:2026-06-26
+channel:UC_qYNkFLY0s5YAzDrhxa_tA # Laventa | added:2026-06-26
+channel:UCXmiDhvNegTWByeq5DuAcCQ # Radyo Mega | added:2026-06-26
+channel:UCnlbw9ABsnEDrS8wljYj7jA # Turkish | added:2026-06-26
+channel:UCzPjsFNRf1-920MFWwHmqFQ # TRT Yedek Kanal Dizi | added:2026-06-26
+channel:UCu5JrDdF8ncB0wK0TWwQv-g # Dizi Rüyası | added:2026-06-26
+channel:UC4ADrZ1tm4vx7jI4HiavY0Q # CS KARAOKE | added:2026-06-26
+channel:UCY_f7F14F6TW-TKa_nsmYNQ # MusicandMüzik | added:2026-06-26
+channel:UCrupsNe4K8r7r0jRT0JfZvQ # Turco Natalie | added:2026-06-26
+channel:UCTrf4vNryb7KAZXYwxBjKWg # Dizi Günüm | added:2026-07-01
+channel:UCoX5cU37Y0ALSwELi0w6Lig # Kimsin Sen? | added:2026-07-01
+channel:UC39h_xomZDmLU_xEe9zzOqw # Kimdir | added:2026-07-01
+channel:UCRzkWY2JI8DTxTbeAUKu3PA # SENDE İZLE | added:2026-07-01
+channel:UCYGZ-hXw1N-zNuU3Th28OBg # Turkish Celeb World | added:2026-07-01
