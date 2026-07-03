@@ -118,3 +118,4 @@ channel:UCS0j9gJBVPjyxVGpMkYnGPA # rémi | added:2026-07-03
 channel:UCp8E5Tw-jg1YFSlBsTxB3FA # Duygu Müzik | added:2026-07-03
 channel:UC8EKdQKy75YmYowRWB4LkXw # Oceanic Ci | added:2026-07-03
 channel:UCT6AlQpCsoHL32mMjQJzkgw # Trap Tıger TV | added:2026-07-03
+channel:UC2LhTwWjNdsP2L_ZVBPj70w # Veins of Anatolia | added:2026-07-03
