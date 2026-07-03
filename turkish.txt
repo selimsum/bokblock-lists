@@ -166,3 +166,4 @@ channel: # Acıoğlu ve Tersine Müzik | added:2026-07-03
 channel:UCZLJN0Nxkzhn_joyo06QH9w # Acıoğlu | added:2026-07-03
 channel:UCUA9gtzj1-QvjEVpFHAO9uw # Psychedelic Rock Cover | added:2026-07-03
 channel:UCAwtYRaKUXV-XzYQmQWJ05A # Remix Cover Şarkılar | added:2026-07-03
+channel:UC75a8eNsUOeDqzP-IgB9Iyw # Dermanı Yok | added:2026-07-03
