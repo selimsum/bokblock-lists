@@ -221,3 +221,4 @@ channel:UCfEyz1qa5934AyDOxYGEmBA # Nergis Musik | added:2026-07-03
 channel:UCKUoPVtwgjt0Lnwl6rRJifg # Kurdish Anatolian | added:2026-07-03
 channel:UC_AqR7FzI-gagFTRcJXQxmA # NeoAnadolu | added:2026-07-03
 channel:UCbFU1awdyLDN-t8t5ZIFanQ # Anatolian Muse | added:2026-07-03
+channel:UCytcTiEU1ewZn49IZtVsj-A # Damar Akustik | added:2026-07-03
