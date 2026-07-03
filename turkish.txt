@@ -224,3 +224,4 @@ channel:UCbFU1awdyLDN-t8t5ZIFanQ # Anatolian Muse | added:2026-07-03
 channel:UCytcTiEU1ewZn49IZtVsj-A # Damar Akustik | added:2026-07-03
 channel:UCEHgr10hptAQp2304cFXTmQ # Anadolu Deep Saz | added:2026-07-03
 channel:UCgY8s8o7hOUjF7Fn30esN8g # Anadolu Skytrip | added:2026-07-03
+channel:UC7Zz3qgD_bBNeSFwJmTTurA # Starkim | added:2026-07-03
