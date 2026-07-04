@@ -32,3 +32,4 @@ channel:UCIumwzoF8y-Ne7-_sFIP2fw # KV OFFICIAL | added:2026-07-01
 channel:UC1s84Vard68EyyQbUlONDfg # The BonsAi Effect | added:2026-07-03
 channel:UCJY3_UMpYRnNPTe5hNNcBGQ # Turkish Celebs | added:2026-07-03
 channel:UCcX9uidierE0rI9tNgT1dRg # Turkish Dramas News | added:2026-07-03
+channel:UCtBfklEle-AY0_pPHsHD4VA # Veloria | added:2026-07-04
