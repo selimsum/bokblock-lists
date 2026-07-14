@@ -233,3 +233,4 @@ channel: # added:2026-07-10
 channel: # added:2026-07-10
 channel:UC5-wGmEZoYr6d3fHu818fww # Her Telden Keyfime Göre | added:2026-07-14
 channel:UCNp8G5PJVy00tWo9IXDfdvw # enzo | added:2026-07-14
+channel:UCIGb94OtlZZvgqHeNwr3yhw # Sohtenea | added:2026-07-14
