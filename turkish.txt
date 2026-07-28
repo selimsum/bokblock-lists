@@ -332,3 +332,4 @@ channel:UCk27Ri67RQGeC4wjnyqDU_w # Şarkı Sözleri Kütüphanesi | added:2026-0
 channel:UC4cROtzhH8TT402S0LP6pKg # Birisini Seç | added:2026-07-28
 channel:UCoqIXka7wUrGpBVQ8DvOSYQ # Soru Şekerleri | added:2026-07-28
 channel:UCxNBqewDWQ88XMsr4ShzVFg # ManifestMix | added:2026-07-28
+channel:UCXcPzyC7vQ_eDV7K7u7cG2Q # ASound | added:2026-07-28
