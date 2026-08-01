@@ -1,127 +1,127 @@
-# BlockTube Filter List â Turkish Content Farms
+# BlockTube Filter List Ã¢ÂÂ Turkish Content Farms
 # Format version: 1
 # Last updated: auto (do not edit this line manually)
 #
 # Turkish-language music reupload channels, celebrity gossip, dizi (drama)
 # channels, and other low-quality Turkish content farms.
 
-# ââ Channel IDs ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-channel:UCl2SokILrGaRhxZNUw2GuZg # MÃZÄ°K RÃZGARI | added:2026-05-04
+# Ã¢ÂÂÃ¢ÂÂ Channel IDs Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ
+channel:UCl2SokILrGaRhxZNUw2GuZg # MÃÂZÃÂ°K RÃÂZGARI | added:2026-05-04
 channel:UCCC6PngIruYS9xQ-iGPmJ5g # Efe Burkay | added:2026-05-04
 channel:UCfpaXd3mpnUpJAU4rrZsPGg # TurkishTechnoStudio | added:2026-05-04
-channel:UC1SUmZc_JUINgDtuiNa0wCw # ÅarkÄ±cÄ±Baba | added:2026-05-04
-channel:UCv-AVPYO_ho4NbK6yofkNOA # Kanal Ä°ZLE | added:2026-05-04
-channel:UCvGa1FrDcWsT0OKjQEja6Qw # PopÃ¼ler YÃ¼zler | added:2026-05-10
-channel:UCmkFRAlUnTNl5I7Lk3A4xig # YÄ±ldÄ±zlarÄ±n HikÃ¢yesi | added:2026-05-10
+channel:UC1SUmZc_JUINgDtuiNa0wCw # ÃÂarkÃÂ±cÃÂ±Baba | added:2026-05-04
+channel:UCv-AVPYO_ho4NbK6yofkNOA # Kanal ÃÂ°ZLE | added:2026-05-04
+channel:UCvGa1FrDcWsT0OKjQEja6Qw # PopÃÂ¼ler YÃÂ¼zler | added:2026-05-10
+channel:UCmkFRAlUnTNl5I7Lk3A4xig # YÃÂ±ldÃÂ±zlarÃÂ±n HikÃÂ¢yesi | added:2026-05-10
 channel:UCfDQXml7sP2rjKQT5jrLgVg # Dinlenir Bu | added:2026-05-10
-channel:UCRzw3cPOjMg4Api77MjS9Fw # AnadolurockmÃ¼zik | added:2026-05-10
-channel:UCsYAy0e8s9sMQE_wBgru7lw # MÃ¼zik Keyfi | added:2026-05-10
-channel:UCbucKP7TM_JgnRj2Ew4HRqQ # Ceyhun YÄ±lmaz | added:2026-05-10
-channel:UC9tRMpt9Z_cpEtdt10T7DgQ # AlbÃ¼m Plak CD Kaset MÃ¼zik Kartonet KapaklarÄ± | added:2026-05-10
+channel:UCRzw3cPOjMg4Api77MjS9Fw # AnadolurockmÃÂ¼zik | added:2026-05-10
+channel:UCsYAy0e8s9sMQE_wBgru7lw # MÃÂ¼zik Keyfi | added:2026-05-10
+channel:UCbucKP7TM_JgnRj2Ew4HRqQ # Ceyhun YÃÂ±lmaz | added:2026-05-10
+channel:UC9tRMpt9Z_cpEtdt10T7DgQ # AlbÃÂ¼m Plak CD Kaset MÃÂ¼zik Kartonet KapaklarÃÂ± | added:2026-05-10
 channel:UCzqy_Gw8Rdy0sAKqhCHL2Jg # SerkanSound | added:2026-05-10
 channel:UCeQHDjwpbzJKrqbCOlVmyvg # HaberNet | added:2026-05-10
-channel:UCSxmB_Etn5J1ko8LQKd15tA # TÃ¼rkÃ§e Klip Saati | added:2026-05-10
-channel:UCiu56y9FXXQy8WIqBAzXSKg # Gri FotoÄraf AtÃ¶lyesi | added:2026-05-10
-channel:UCTNbeATpmIlm7H1LJPYmR5A # MÃ¼zik evreni | added:2026-05-10
-channel:UCE9oLg4P5oLa1mKcLkFsMsw # kurtuluÅ Burak (FAN) | added:2026-05-10
+channel:UCSxmB_Etn5J1ko8LQKd15tA # TÃÂ¼rkÃÂ§e Klip Saati | added:2026-05-10
+channel:UCiu56y9FXXQy8WIqBAzXSKg # Gri FotoÃÂraf AtÃÂ¶lyesi | added:2026-05-10
+channel:UCTNbeATpmIlm7H1LJPYmR5A # MÃÂ¼zik evreni | added:2026-05-10
+channel:UCE9oLg4P5oLa1mKcLkFsMsw # kurtuluÃÂ Burak (FAN) | added:2026-05-10
 channel:UCY1rVKJWi9W4jFkj1uJTUWA # Flow360 | added:2026-05-10
-channel:UC2ZZNP8fPxKnO2dj87_ivag # Aura Replica TÃ¼rkiye | added:2026-05-10
-channel:UCmUpNcIjEApa7iOVw7lhwVg # KRM MÃZÄ°K | added:2026-05-10
+channel:UC2ZZNP8fPxKnO2dj87_ivag # Aura Replica TÃÂ¼rkiye | added:2026-05-10
+channel:UCmUpNcIjEApa7iOVw7lhwVg # KRM MÃÂZÃÂ°K | added:2026-05-10
 channel:UCZmfJKTTmPLWAbHsuM3YQ9w # unluler tayfas | added:2026-05-10
 channel:UC4rhxgYTmYMKFU1qfRATuXQ # Sosial Netd | added:2026-05-10
-channel:UCQMe997WMy4bLvX6MgqM14A # VATR MÃ¼zik | added:2026-05-10
-channel:UCT7VvtFjPtGrS0Z2kt3TYKg # DJ OYNAT GELSÄ°N | added:2026-05-10
+channel:UCQMe997WMy4bLvX6MgqM14A # VATR MÃÂ¼zik | added:2026-05-10
+channel:UCT7VvtFjPtGrS0Z2kt3TYKg # DJ OYNAT GELSÃÂ°N | added:2026-05-10
 channel:UCF7GVzp5Q5FXQ6mtwiXCi2Q # MusicMod | added:2026-05-10
 channel:UCEba-1bJjXER6KnTZvo_YDA # Zirve Sesler | added:2026-05-10
-channel:UCjBkLrI6VChSKOIiDu9ioxw # Uzun SarkÄ±lar | added:2026-05-10
+channel:UCjBkLrI6VChSKOIiDu9ioxw # Uzun SarkÃÂ±lar | added:2026-05-10
 channel:UCoS-g67xPEnH9mnZk7TqxDg # NS Anatolian Music | added:2026-05-10
-channel:UCCcIzQQcVkh9WJ8D9VbfSCg # Mix BabasÄ± | added:2026-05-10
+channel:UCCcIzQQcVkh9WJ8D9VbfSCg # Mix BabasÃÂ± | added:2026-05-10
 channel:UCm8D5LCqpoRsLQyozA0mqpA # M1NuteMusic | added:2026-05-10
-channel:UC1r_-M4V5irlNILQj7BeGNg # SILAM MUSÄ°C | added:2026-05-10
+channel:UC1r_-M4V5irlNILQj7BeGNg # SILAM MUSÃÂ°C | added:2026-05-10
 channel:UCYDPBXLP-X8hSevfIM9IbiQ # Muammer Sezgin | added:2026-05-10
 channel:UC5BEmaJC2pgJpFGGQXyKrsg # Rafo Pro | added:2026-05-10
 channel:UCoEHjk6wEwopkAA6ODmsr3Q # Erkan Chaita | added:2026-05-10
 channel:UCYfARvCZPU6Er8ddzo-ls6Q # AURVIONEX | added:2026-05-10
 channel:UCzmHJwK4HFFb3wMMIm3sOGQ # Remix Pro music | added:2026-05-10
-channel:UCMwPVcS033J485LL0fn0GUg # MÄ°XHUB | added:2026-05-10
-channel:UCHEEwiTAMQc51IPVAjAQeAw # ALBÃM FREKANSI | added:2026-05-10
+channel:UCMwPVcS033J485LL0fn0GUg # MÃÂ°XHUB | added:2026-05-10
+channel:UCHEEwiTAMQc51IPVAjAQeAw # ALBÃÂM FREKANSI | added:2026-05-10
 channel:UCGPqhwfnzQvMOr0AVIAjA-g # SonMusic | added:2026-05-10
-channel:UCus4FbEXeZ4vJ5bkxhqA8Sw # TÃ¼rkÃ§e Pop Cover | added:2026-05-10
+channel:UCus4FbEXeZ4vJ5bkxhqA8Sw # TÃÂ¼rkÃÂ§e Pop Cover | added:2026-05-10
 channel:UCUZgrhivu2YQ4nVJC-iys0Q # NeXuent Corp. | added:2026-05-10
-channel:UCKs0Vg1ii8V3EZ5PdWdSMow # MÃZÄ°KOLOJÄ° | added:2026-05-10
+channel:UCKs0Vg1ii8V3EZ5PdWdSMow # MÃÂZÃÂ°KOLOJÃÂ° | added:2026-05-10
 channel:UCp_aTltIEHPx8pkDMAiQf2w # Akman | added:2026-05-10
 channel:UCfHr4TT9xKAgHaxOqQLBcxA # Anatolian Deep House Music | added:2026-05-10
 channel:UC26dU6dlNa3sn6fDKw1Os7g # Mor Bulut | added:2026-05-10
-channel:UCuCKcwDiYmtuZCmI1ZpZ5zA # Nota SokaÄÄ± | added:2026-05-10
-channel:UCmNKJvPDkhcbq-0W5ZApcTw # YARALI MELODÄ° | added:2026-05-10
+channel:UCuCKcwDiYmtuZCmI1ZpZ5zA # Nota SokaÃÂÃÂ± | added:2026-05-10
+channel:UCmNKJvPDkhcbq-0W5ZApcTw # YARALI MELODÃÂ° | added:2026-05-10
 channel:UCAsPwW7KOq7aWkM0DomkaDQ # Karga Karaoke | added:2026-05-10
 channel:UCATP-BlOR0UiPgjUjMfM0bQ # Wolker Production | added:2026-05-10
-channel:UC-7NhrZOSZ9pCIeXvjB2wtQ # BozkÄ±rWave | added:2026-05-10
-channel:UCYZD6bTxm7lCRuCeDaenKZQ # REMÄ°X PATLAT | added:2026-05-10
-channel:UC4dvAF1yFmIUIkJHgA5SeuA # ÃnlÃ¼ Dergisi | added:2026-05-10
+channel:UC-7NhrZOSZ9pCIeXvjB2wtQ # BozkÃÂ±rWave | added:2026-05-10
+channel:UCYZD6bTxm7lCRuCeDaenKZQ # REMÃÂ°X PATLAT | added:2026-05-10
+channel:UC4dvAF1yFmIUIkJHgA5SeuA # ÃÂnlÃÂ¼ Dergisi | added:2026-05-10
 channel:UC4cgEskspqcCuAk5YqxkNug # Bunu Bilmiyordum | added:2026-05-10
-channel:UCTbf943UUedqrxz2dPdY8bA # Gecenin YÄ±ldÄ±zlarÄ± | added:2026-05-10
+channel:UCTbf943UUedqrxz2dPdY8bA # Gecenin YÃÂ±ldÃÂ±zlarÃÂ± | added:2026-05-10
 channel:UCjB4L_UDvnJCOiKsGrZAczg # Magazin Haberi | added:2026-05-10
 channel:UCt7hUHD8UDOU7US2RtkA9ZA # Ferhat Dizi Fragman | added:2026-05-10
 channel:UC2B0TSLnivg5HiMCB8jzccg # Dizi Mozaik | added:2026-05-10
-channel:UCz16djRzi2z5w-I2GEQ78_A # KENAN MÃZÄ°K | added:2026-05-12
+channel:UCz16djRzi2z5w-I2GEQ78_A # KENAN MÃÂZÃÂ°K | added:2026-05-12
 channel:UC7I0wFB7iJEFgCfZHiMthWw # Coverlife Music | added:2026-05-12
 channel:UCjjp1HTwogNH70cAPkOSjHA # Nur Studio | added:2026-05-12
-channel:UCZSBToQviyw-hPtifV_U7kg # ERTAÅ COVERS | added:2026-05-12
+channel:UCZSBToQviyw-hPtifV_U7kg # ERTAÃÂ COVERS | added:2026-05-12
 channel:UCzgFWa6Sj1ytH0fix1jNc-g # Aura Muzik | added:2026-05-12
-channel:UChER4D6s2Hoz9GOtYSpWo4A # Trend ParÃ§alar | added:2026-05-12
+channel:UChER4D6s2Hoz9GOtYSpWo4A # Trend ParÃÂ§alar | added:2026-05-12
 channel:UCGJbLYvgFN00zObp9p-U4zw # MEGA MAG | added:2026-05-12
 channel:UClj1DR8WCHEDskAQaLrLcSA # Turkish Talent | added:2026-05-12
 channel:UCHk4RyP7g3XyasRcOdfdZjw # Drama y Fama Turca | added:2026-05-15
 channel:UC3_rpsnyaxyQhJdCUCgO57g # CineTurk TV | added:2026-05-15
 channel:UC4pQ7BIUUgbARZGnFHTycww # Frektra | added:2026-06-11
 channel:UC8nJV9gjQsKYfjzevtVG9MQ # Arda Soruyor | added:2026-06-26
-channel:UCaBbEl8tx5VcqRoMWvNUc1w # Yap de YapalÄ±m | added:2026-06-26
+channel:UCaBbEl8tx5VcqRoMWvNUc1w # Yap de YapalÃÂ±m | added:2026-06-26
 channel:UClCbNrQjQxKfxip9Qlp58uQ # Sepya Band Music | added:2026-06-26
 channel:UC-SHZkFFLp9leAlVD2NBYGg # TURK POP Arsivci | added:2026-06-26
-channel:UCaHGM-PRkhenC7KmcaHRGdw # Ali ApaydÄ±n | added:2026-06-26
+channel:UCaHGM-PRkhenC7KmcaHRGdw # Ali ApaydÃÂ±n | added:2026-06-26
 channel:UCtwgNNlW7ZJF3NTxCGQa0Lw # 1filmsepeti | added:2026-06-26
-channel:UCbx5MrnvDPERJp73tedJpow # ESKÄ° NOSTALJÄ° ÅARKÄ°LAR | added:2026-06-26
+channel:UCbx5MrnvDPERJp73tedJpow # ESKÃÂ° NOSTALJÃÂ° ÃÂARKÃÂ°LAR | added:2026-06-26
 channel:UCzozs31UW9zQCvsad2LXiJQ # music turk | added:2026-06-26
 channel:UCUuPrG6RTN8d1BWVJHsC9rw # BVSTUDIO | added:2026-06-26
-channel:UCkpqBdHDBlerYE9TngEqSsQ # KÃ¼rÅat Alper AlkaÃ§Ä±r | added:2026-06-26
-channel:UC25H_cqQ-gj0IsjJ-QKOFrg # Yap de YapalÄ±m (2) | added:2026-06-26
-channel:UCDOeQ_5HFg_Xu7GCkMmIEkg # Kemal KÄ±sacÄ±k Music | added:2026-06-26
+channel:UCkpqBdHDBlerYE9TngEqSsQ # KÃÂ¼rÃÂat Alper AlkaÃÂ§ÃÂ±r | added:2026-06-26
+channel:UC25H_cqQ-gj0IsjJ-QKOFrg # Yap de YapalÃÂ±m (2) | added:2026-06-26
+channel:UCDOeQ_5HFg_Xu7GCkMmIEkg # Kemal KÃÂ±sacÃÂ±k Music | added:2026-06-26
 channel:UCKaU8jq_YXVaKRz2S28A2Aw # speedz | added:2026-06-26
-channel:UCWxxX1v10hULOyYVyMporCQ # TemaTÃ¼rk Music Entertainment | added:2026-06-26
-channel:UCS744DbTUW_e8EJ0ZoBrVOw # KÃ¶k MÃ¼zik | added:2026-06-26
-channel:UCz8xFOFxxX5x5yVG-zzsQhw # POLAT MÃZÄ°K | added:2026-06-26
+channel:UCWxxX1v10hULOyYVyMporCQ # TemaTÃÂ¼rk Music Entertainment | added:2026-06-26
+channel:UCS744DbTUW_e8EJ0ZoBrVOw # KÃÂ¶k MÃÂ¼zik | added:2026-06-26
+channel:UCz8xFOFxxX5x5yVG-zzsQhw # POLAT MÃÂZÃÂ°K | added:2026-06-26
 channel:UCDOaJFMPJ7sIEHsSLyPiVeA # Ufuk KAPLAN | added:2026-06-26
-channel:UCt9n4HB2Mrv5eDn50jrabXg # Simge ÃzsaÄÄ±r | added:2026-06-26
+channel:UCt9n4HB2Mrv5eDn50jrabXg # Simge ÃÂzsaÃÂÃÂ±r | added:2026-06-26
 channel:UC50Mkh8V4K9HglcuKCo_8tw # Keriozzy | added:2026-06-26
-channel:UCVjMujJQ7uprmNL64y3s7NQ # GABORONLÄ° | added:2026-06-26
+channel:UCVjMujJQ7uprmNL64y3s7NQ # GABORONLÃÂ° | added:2026-06-26
 channel:UC_h5ECrqIVSfCRhybLUIVMw # Simge Officiall | added:2026-06-26
-channel:UClE2F8Dy0QvunThIwNYfbOg # Bilalnaz DumanogullarÄ± music | added:2026-06-26
+channel:UClE2F8Dy0QvunThIwNYfbOg # Bilalnaz DumanogullarÃÂ± music | added:2026-06-26
 channel:UCvbb_FacVB2ujm0rs30yfUw # Aras'tan lyricsler | added:2026-06-26
 channel:UC_qYNkFLY0s5YAzDrhxa_tA # Laventa | added:2026-06-26
 channel:UCXmiDhvNegTWByeq5DuAcCQ # Radyo Mega | added:2026-06-26
 channel:UCnlbw9ABsnEDrS8wljYj7jA # Turkish | added:2026-06-26
 channel:UCzPjsFNRf1-920MFWwHmqFQ # TRT Yedek Kanal Dizi | added:2026-06-26
-channel:UCu5JrDdF8ncB0wK0TWwQv-g # Dizi RÃ¼yasÄ± | added:2026-06-26
+channel:UCu5JrDdF8ncB0wK0TWwQv-g # Dizi RÃÂ¼yasÃÂ± | added:2026-06-26
 channel:UC4ADrZ1tm4vx7jI4HiavY0Q # CS KARAOKE | added:2026-06-26
-channel:UCY_f7F14F6TW-TKa_nsmYNQ # MusicandMÃ¼zik | added:2026-06-26
+channel:UCY_f7F14F6TW-TKa_nsmYNQ # MusicandMÃÂ¼zik | added:2026-06-26
 channel:UCrupsNe4K8r7r0jRT0JfZvQ # Turco Natalie | added:2026-06-26
-channel:UCTrf4vNryb7KAZXYwxBjKWg # Dizi GÃ¼nÃ¼m | added:2026-07-01
+channel:UCTrf4vNryb7KAZXYwxBjKWg # Dizi GÃÂ¼nÃÂ¼m | added:2026-07-01
 channel:UCoX5cU37Y0ALSwELi0w6Lig # Kimsin Sen? | added:2026-07-01
 channel:UC39h_xomZDmLU_xEe9zzOqw # Kimdir | added:2026-07-01
-channel:UCRzkWY2JI8DTxTbeAUKu3PA # SENDE Ä°ZLE | added:2026-07-01
+channel:UCRzkWY2JI8DTxTbeAUKu3PA # SENDE ÃÂ°ZLE | added:2026-07-01
 channel:UCYGZ-hXw1N-zNuU3Th28OBg # Turkish Celeb World | added:2026-07-01
-channel:UC0VWkOZOS-KrxhKr25tKzTw # TÃ¼rkÃ§e MÃ¼zik ArÅivi | added:2026-07-01
+channel:UC0VWkOZOS-KrxhKr25tKzTw # TÃÂ¼rkÃÂ§e MÃÂ¼zik ArÃÂivi | added:2026-07-01
 channel:UCpyWmpU5zro-J4JM4SqGV0Q # RTM | added:2026-07-02
-channel:UCHef-pwRaEZ7B9Icm1FgGuw # HayatÄ±n Yolu ð«´"Ufuk Ãizgisi" | added:2026-07-02
-channel:UCS0j9gJBVPjyxVGpMkYnGPA # rÃ©mi | added:2026-07-03
-channel:UCp8E5Tw-jg1YFSlBsTxB3FA # Duygu MÃ¼zik | added:2026-07-03
+channel:UCHef-pwRaEZ7B9Icm1FgGuw # HayatÃÂ±n Yolu Ã°ÂÂ«Â´"Ufuk ÃÂizgisi" | added:2026-07-02
+channel:UCS0j9gJBVPjyxVGpMkYnGPA # rÃÂ©mi | added:2026-07-03
+channel:UCp8E5Tw-jg1YFSlBsTxB3FA # Duygu MÃÂ¼zik | added:2026-07-03
 channel:UC8EKdQKy75YmYowRWB4LkXw # Oceanic Ci | added:2026-07-03
-channel:UCT6AlQpCsoHL32mMjQJzkgw # Trap TÄ±ger TV | added:2026-07-03
+channel:UCT6AlQpCsoHL32mMjQJzkgw # Trap TÃÂ±ger TV | added:2026-07-03
 channel:UC2LhTwWjNdsP2L_ZVBPj70w # Veins of Anatolia | added:2026-07-03
 channel:UC3yIXIzud2vnjJvxe49wo1A # ElZey | added:2026-07-03
 channel:UC5KV1RfhS0cUTHdea-bEX7w # Caner Toros | added:2026-07-03
-channel:UCti-b6i19fogWLaxU4lg4Jw # Net Muzik DÃ¼nyasÄ± | added:2026-07-03
+channel:UCti-b6i19fogWLaxU4lg4Jw # Net Muzik DÃÂ¼nyasÃÂ± | added:2026-07-03
 channel:UCJLEdjrtLT7lpO3bkN0fX0Q # Oso Studio | added:2026-07-03
 channel:UCef0PobAdnaofZ6KjiAwFIQ # SeRi Berk | added:2026-07-03
 channel:UCef0PobAdnaofZ6KjiAwFIQ # SeRi Berk | added:2026-07-03
@@ -131,90 +131,90 @@ channel:UCvbEea3O79iqTcljPbWn2Lg # Nayra Noor | added:2026-07-03
 channel:UCd2QCSS2xwap1l4660trfXA # midnight remix | added:2026-07-03
 channel:UCfuLXz8DYDto0wFaXl9uAMg # Lumos | added:2026-07-03
 channel:UCPE91BFiNUtGFRAAMoBZSaA # Songs Heart | added:2026-07-03
-channel:UCC3NKReTy7Rgns_gXhHQ-pQ # DJ OZAN MUSÄ°CC | added:2026-07-03
-channel:UCCBKxF49Q3wl0Bh-mTUnWwA # Mesut ÃztÃ¼rk | added:2026-07-03
-channel:UCxR7Wuv0vbJHzkVLnAIaunA # mÃ¼zik yeni ÅarkÄ±lar abone olabilirsiniz | added:2026-07-03
+channel:UCC3NKReTy7Rgns_gXhHQ-pQ # DJ OZAN MUSÃÂ°CC | added:2026-07-03
+channel:UCCBKxF49Q3wl0Bh-mTUnWwA # Mesut ÃÂztÃÂ¼rk | added:2026-07-03
+channel:UCxR7Wuv0vbJHzkVLnAIaunA # mÃÂ¼zik yeni ÃÂarkÃÂ±lar abone olabilirsiniz | added:2026-07-03
 channel:UCkoIolm2IZFBayJNf6r4Suw # zeynus | added:2026-07-03
 channel:UCYZPceGYG15HjnKc9yMyo0g # arzeltr | added:2026-07-03
 channel:UCghGfQPI2UYxvhe7r1Tpl8g # SahipsizSARKILAR | added:2026-07-03
-channel:UCgca-5QTCvB48vBaMWhbNEQ # SESEMÄ°N | added:2026-07-03
-channel:UCcdBNRDGgvQxJVnpUyBx0BA # tom ve manifest fanÄ± | added:2026-07-03
-channel:UCCBKxF49Q3wl0Bh-mTUnWwA # Mesut ÃztÃ¼rk | added:2026-07-03
+channel:UCgca-5QTCvB48vBaMWhbNEQ # SESEMÃÂ°N | added:2026-07-03
+channel:UCcdBNRDGgvQxJVnpUyBx0BA # tom ve manifest fanÃÂ± | added:2026-07-03
+channel:UCCBKxF49Q3wl0Bh-mTUnWwA # Mesut ÃÂztÃÂ¼rk | added:2026-07-03
 channel:UCLu0TBXWNDvQCzEbGsD8e4w # VERMILLION-END | added:2026-07-03
 channel:UCeIRqHy_cqhFcmX6bXUnQfw # ibrahim kaynar | added:2026-07-03
 channel:UCMXziPY8KwQQNVXlMbnTyNg # Uras KUDAY | added:2026-07-03
-channel:UCL993KTZIodl8pQL3HSuv8w # Ä°smail Ertek Music | added:2026-07-03
+channel:UCL993KTZIodl8pQL3HSuv8w # ÃÂ°smail Ertek Music | added:2026-07-03
 channel:UCt6AzOHMawcUO-oZw6NjPgQ # FootballAnalysis360 | added:2026-07-03
 channel:UC2OEGVBmyD-lIhKZEZSKqEg # Hasan Can 52 | added:2026-07-03
 channel:UCIFMuEO1iV0sj9pN1wpHMdA # Egefixmusic | added:2026-07-03
-channel:UCF0QlEbTm2bLeMQtDonqqhw # ÅarkÄ± SÃ¶zleri | added:2026-07-03
+channel:UCF0QlEbTm2bLeMQtDonqqhw # ÃÂarkÃÂ± SÃÂ¶zleri | added:2026-07-03
 channel:UCYSD3vmnHXX3avDO4NiZ5lg # RadyoN | added:2026-07-03
 channel:UC9dZX8PpOmZtPVYAw8Qmy6w # aselaskitom | added:2026-07-03
 channel:UCySySe8CQWukvarCkZSRPWg # Radikal Esintiler | added:2026-07-03
 channel:UCM8F5y9qUuymnt_vYXDXUPw # Vortexsell | added:2026-07-03
-channel:UCrpD1tgVN4s_wvSxZ0U8Xkw # Latin Jazz Manifestasyon MÃ¼ziÄi | added:2026-07-03
+channel:UCrpD1tgVN4s_wvSxZ0U8Xkw # Latin Jazz Manifestasyon MÃÂ¼ziÃÂi | added:2026-07-03
 channel:UCD9xpP5iGc-LHPv7aG5vujw # Onurlu Yoda | added:2026-07-03
 channel:UCsC8xVSkIdzlWsbkYEX8fqA # Ecme Tv | added:2026-07-03
 channel:UCwkQ78nnzpewntnW-YDUPOA # Leus | added:2026-07-03
 channel:UCTegW-iXsgeHBBnjhFjgwhw # Rone | added:2026-07-03
-channel:UCIID7I9gEmsitCENsGD3UQg # v1p_lyrÄ±cs27 | added:2026-07-03
+channel:UCIID7I9gEmsitCENsGD3UQg # v1p_lyrÃÂ±cs27 | added:2026-07-03
 channel:UCu7dC9Yo6N4iVT8Bi4iw4lw # Vusal Pro Music | added:2026-07-03
 channel:UCmSpdOui34imJDIr7I7abtg # Khaleelkzar | added:2026-07-03
-channel:UCc6ShhLEUBSDBSRtiyNJ2jQ # ðð¢ðð§ ððªð¨ððâ | added:2026-07-03
+channel:UCc6ShhLEUBSDBSRtiyNJ2jQ # Ã°ÂÂÂÃ°ÂÂÂ¢Ã°ÂÂÂÃ°ÂÂÂ§ Ã°ÂÂÂÃ°ÂÂÂªÃ°ÂÂÂ¨Ã°ÂÂÂÃ°ÂÂÂÃ¢ÂÂ | added:2026-07-03
 channel:UCyZP78vWa1CSE5zqAXpfrZA # Sevimli Notalar | added:2026-07-03
-channel: # AcÄ±oÄlu ve Tersine MÃ¼zik | added:2026-07-03
-channel:UCZLJN0Nxkzhn_joyo06QH9w # AcÄ±oÄlu | added:2026-07-03
+channel: # AcÃÂ±oÃÂlu ve Tersine MÃÂ¼zik | added:2026-07-03
+channel:UCZLJN0Nxkzhn_joyo06QH9w # AcÃÂ±oÃÂlu | added:2026-07-03
 channel:UCUA9gtzj1-QvjEVpFHAO9uw # Psychedelic Rock Cover | added:2026-07-03
-channel:UCAwtYRaKUXV-XzYQmQWJ05A # Remix Cover ÅarkÄ±lar | added:2026-07-03
-channel:UC75a8eNsUOeDqzP-IgB9Iyw # DermanÄ± Yok | added:2026-07-03
-channel:UCbUbAjrtPrnKrn2svbvxaRw # Sahipsiz ÅarkÄ±lar | added:2026-07-03
+channel:UCAwtYRaKUXV-XzYQmQWJ05A # Remix Cover ÃÂarkÃÂ±lar | added:2026-07-03
+channel:UC75a8eNsUOeDqzP-IgB9Iyw # DermanÃÂ± Yok | added:2026-07-03
+channel:UCbUbAjrtPrnKrn2svbvxaRw # Sahipsiz ÃÂarkÃÂ±lar | added:2026-07-03
 channel:UC_6Ero_nvhxPqAZY5VlB4Sg # The Spirit of Anatolia | added:2026-07-03
 channel:UCUPQO1PoBrIL4R53Ez4jcDg # Ayros Music | added:2026-07-03
 channel:UCDL_a_1xPGFkBdcoYlf2TXA # Arya Music Lab | added:2026-07-03
-channel:UCTIuCrgehjpI_Ja4htkwHoA # SunoAiX â TÃ¼rkÃ§e AI Cover | added:2026-07-03
+channel:UCTIuCrgehjpI_Ja4htkwHoA # SunoAiX Ã¢ÂÂ TÃÂ¼rkÃÂ§e AI Cover | added:2026-07-03
 channel:UCfzGIVCiydz3N4l90u5Ad0Q # S3R Music | added:2026-07-03
-channel:UCt_YxtjQAaDbW6ReGtrmhmA # MÃ¼zik Mahsulleri Ofisi | added:2026-07-03
+channel:UCt_YxtjQAaDbW6ReGtrmhmA # MÃÂ¼zik Mahsulleri Ofisi | added:2026-07-03
 channel:UCn04i2RUHveviS2TOyDi3Rw # Hakan E. | added:2026-07-03
-channel:UCCEVY1qOke_2hPePu6ulefg # MÃ¼zik Station | added:2026-07-03
+channel:UCCEVY1qOke_2hPePu6ulefg # MÃÂ¼zik Station | added:2026-07-03
 channel:UC57AVs_k5BZNsLVId15_yrQ # Cem-AI Music | added:2026-07-03
 channel:UCUPQO1PoBrIL4R53Ez4jcDg # Ayros Music | added:2026-07-03
 channel:UCqID3IdQV8yhZMXX_Vc5nJQ # Pulse of Anatolia | added:2026-07-03
 channel:UCI85JWaHjhUQXIVMmPdPpRw # Lion Thunderbolt | added:2026-07-03
-channel:UCEvNBxJerYlouHxVXiyZVKg # 210 gÃ¶rÃ¼ntÃ¼leme | added:2026-07-03
-channel:UCEvNBxJerYlouHxVXiyZVKg # 210 gÃ¶rÃ¼ntÃ¼leme | added:2026-07-03
-channel:UCEvNBxJerYlouHxVXiyZVKg # 210 gÃ¶rÃ¼ntÃ¼leme | added:2026-07-03
-channel:UCEvNBxJerYlouHxVXiyZVKg # 210 gÃ¶rÃ¼ntÃ¼leme | added:2026-07-03
-channel:UCKVtOw9jJflwF22E9hoF4qA # 945Â B gÃ¶rÃ¼ntÃ¼leme | added:2026-07-03
-channel:UCKVtOw9jJflwF22E9hoF4qA # 945Â B gÃ¶rÃ¼ntÃ¼leme | added:2026-07-03
-channel:UCKVtOw9jJflwF22E9hoF4qA # 945Â B gÃ¶rÃ¼ntÃ¼leme | added:2026-07-03
-channel:UCKVtOw9jJflwF22E9hoF4qA # 945Â B gÃ¶rÃ¼ntÃ¼leme | added:2026-07-03
+channel:UCEvNBxJerYlouHxVXiyZVKg # 210 gÃÂ¶rÃÂ¼ntÃÂ¼leme | added:2026-07-03
+channel:UCEvNBxJerYlouHxVXiyZVKg # 210 gÃÂ¶rÃÂ¼ntÃÂ¼leme | added:2026-07-03
+channel:UCEvNBxJerYlouHxVXiyZVKg # 210 gÃÂ¶rÃÂ¼ntÃÂ¼leme | added:2026-07-03
+channel:UCEvNBxJerYlouHxVXiyZVKg # 210 gÃÂ¶rÃÂ¼ntÃÂ¼leme | added:2026-07-03
+channel:UCKVtOw9jJflwF22E9hoF4qA # 945ÃÂ B gÃÂ¶rÃÂ¼ntÃÂ¼leme | added:2026-07-03
+channel:UCKVtOw9jJflwF22E9hoF4qA # 945ÃÂ B gÃÂ¶rÃÂ¼ntÃÂ¼leme | added:2026-07-03
+channel:UCKVtOw9jJflwF22E9hoF4qA # 945ÃÂ B gÃÂ¶rÃÂ¼ntÃÂ¼leme | added:2026-07-03
+channel:UCKVtOw9jJflwF22E9hoF4qA # 945ÃÂ B gÃÂ¶rÃÂ¼ntÃÂ¼leme | added:2026-07-03
 channel:UCzoET_aooAbxuv2VYVIRpWw # AALines | added:2026-07-03
-channel:UC1G0FORCJVNJwrCgVlfSOBQ # ððððððð ð¡ðððð£ððð  | added:2026-07-03
-channel:UCSbsOnRa-diZCm3RYBS0GFw # NeptÃ¼nÃ¼n kÄ±zÄ± | added:2026-07-03
+channel:UC1G0FORCJVNJwrCgVlfSOBQ # Ã°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂ Ã°ÂÂÂ¡Ã°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂ£Ã°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂ  | added:2026-07-03
+channel:UCSbsOnRa-diZCm3RYBS0GFw # NeptÃÂ¼nÃÂ¼n kÃÂ±zÃÂ± | added:2026-07-03
 channel:UCsXZD61vDT_hfNe1rtwHvbw # t-groups | added:2026-07-03
 channel:UCYtCEvDliers9CbJEaT_F7w # Sue | added:2026-07-03
-channel:UCXicJZ6KiZcyPHA-cVVd0dg # buÄlem ezer | added:2026-07-03
+channel:UCXicJZ6KiZcyPHA-cVVd0dg # buÃÂlem ezer | added:2026-07-03
 channel:UCck4GJc2hrYvzX12mO0F32g # lyhilal | added:2026-07-03
 channel:UCGy4JJcxjC1qUI3RCvZWJvg # Hilal Fan | added:2026-07-03
 channel:UCjCjDOMvTPOkEm1SEobq64g # Karaoke Bizden Sorulur | added:2026-07-03
-channel:UCHzrnYY5LIrI-_5Fwh2HsRw # MaRtÄ± TV | added:2026-07-03
-channel:UCU6Q4byXm5pm4eW6IVjhIcw # niniesð¹ | added:2026-07-03
+channel:UCHzrnYY5LIrI-_5Fwh2HsRw # MaRtÃÂ± TV | added:2026-07-03
+channel:UCU6Q4byXm5pm4eW6IVjhIcw # niniesÃ°ÂÂÂ¹ | added:2026-07-03
 channel:UCHNAZK4bTPZY2n_s9vkeQug # daisyxyz_ | added:2026-07-03
 channel:UCDYPUix_8kl1_G5yQ0PkE8w # Ygpeto | added:2026-07-03
-channel:UC8l6bAYZYFIZsjteYUNIbsw # ðð¤ð«ðððð¡ð® ð | added:2026-07-03
-channel:UCs1Hw1KAZ_nnoqBucOXLXHA # ð©µELAPKXDð©µ | added:2026-07-03
+channel:UC8l6bAYZYFIZsjteYUNIbsw # Ã°ÂÂÂÃ°ÂÂÂ¤Ã°ÂÂÂ«Ã°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂ¡Ã°ÂÂÂ® Ã°ÂÂÂ | added:2026-07-03
+channel:UCs1Hw1KAZ_nnoqBucOXLXHA # Ã°ÂÂ©ÂµELAPKXDÃ°ÂÂ©Âµ | added:2026-07-03
 channel:UCjqBmnUMhlTOCFjuiYfEaow # AlSA Music | added:2026-07-03
-channel:UC18qesEzoqswTw0XI6QY79Q # ðð¨ð¥ð | added:2026-07-03
-channel:UCWf-3vNYqnVErDZcefZqRkg # Karaoke OdasÄ± | added:2026-07-03
+channel:UC18qesEzoqswTw0XI6QY79Q # Ã°ÂÂÂÃ°ÂÂÂ¨Ã°ÂÂÂ¥Ã°ÂÂÂ | added:2026-07-03
+channel:UCWf-3vNYqnVErDZcefZqRkg # Karaoke OdasÃÂ± | added:2026-07-03
 channel:UCOOr-VPRyIvDXtmJier9AiQ # Rykra | added:2026-07-03
-channel:UCjn-CKtB2n6M0TGS0eZkP0Q # ððð§ð. | added:2026-07-03
-channel:UC8XoAeqlKmY_IQx9EtYSBFA # ððªð»ð´ðµð¸ð»ð­ ðð¾ð¼ð²ð¬ | added:2026-07-03
+channel:UCjn-CKtB2n6M0TGS0eZkP0Q # Ã°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂ§Ã°ÂÂÂ. | added:2026-07-03
+channel:UC8XoAeqlKmY_IQx9EtYSBFA # Ã°ÂÂÂÃ°ÂÂÂªÃ°ÂÂÂ»Ã°ÂÂÂ´Ã°ÂÂÂµÃ°ÂÂÂ¸Ã°ÂÂÂ»Ã°ÂÂÂ­ Ã°ÂÂÂÃ°ÂÂÂ¾Ã°ÂÂÂ¼Ã°ÂÂÂ²Ã°ÂÂÂ¬ | added:2026-07-03
 channel:UCF0d25vqTZ1B_856Z-PQuYg # LenaMusic | added:2026-07-03
 channel:UCTwdqoer6mPt66vmeunbtDA # 4ash_aura | added:2026-07-03
 channel:UCJrHEA4yqGxDZdRxbruzMqQ # Zekaiyapay | added:2026-07-03
 channel:UC0116TaKfttRfXRYH1rvU7g # manitopya | added:2026-07-03
-channel:UCiaffp7acezPCY2MIgQzXyg # Arasâtan lyricsler | added:2026-07-03
-channel:UCukdBg3ukmGJFBcpmvgunWA # á¯âð¢ð¶ð³ð¢ð¹_ð·ðªð£ð¦âá¯ | added:2026-07-03
+channel:UCiaffp7acezPCY2MIgQzXyg # ArasÃ¢ÂÂtan lyricsler | added:2026-07-03
+channel:UCukdBg3ukmGJFBcpmvgunWA # Ã¡Â¯ÂÃ¢ÂÂÃ°ÂÂÂ¢Ã°ÂÂÂ¶Ã°ÂÂÂ³Ã°ÂÂÂ¢Ã°ÂÂÂ¹_Ã°ÂÂÂ·Ã°ÂÂÂªÃ°ÂÂÂ£Ã°ÂÂÂ¦Ã¢ÂÂÃ¡Â¯Â | added:2026-07-03
 channel:UCkcygrGR8ubUe4LlQ4YLZpA # Anadolu Ses | added:2026-07-03
 channel:UC5C9aiytN7_k6do41E7X3JQ # Echo Bazaar | added:2026-07-03
 channel:UCfEyz1qa5934AyDOxYGEmBA # Nergis Musik | added:2026-07-03
@@ -226,12 +226,12 @@ channel:UCEHgr10hptAQp2304cFXTmQ # Anadolu Deep Saz | added:2026-07-03
 channel:UCgY8s8o7hOUjF7Fn30esN8g # Anadolu Skytrip | added:2026-07-03
 channel:UC7Zz3qgD_bBNeSFwJmTTurA # Starkim | added:2026-07-03
 channel:UCp6DoTpRfoXrkC7-mgb7g_Q # TIKTOK STARS | added:2026-07-03
-channel:UCIh4Huh5s1Ot0ZT1BWf3LiA # Dizi DÃ¼nyasÄ± - NOW | added:2026-07-03
-channel:UC7nmh6BPpF1IYA7osfE-Rag # ãã¿stilistããµ | added:2026-07-04
+channel:UCIh4Huh5s1Ot0ZT1BWf3LiA # Dizi DÃÂ¼nyasÃÂ± - NOW | added:2026-07-03
+channel:UC7nmh6BPpF1IYA7osfE-Rag # Ã£ÂÂÃ£ÂÂ¿stilistÃ£ÂÂÃ£ÂÂµ | added:2026-07-04
 channel:UCnK6cVjIFwF_tFyFeuSHW4g # LIVAPKXD | added:2026-07-07
 channel: # added:2026-07-10
 channel: # added:2026-07-10
-channel:UC5-wGmEZoYr6d3fHu818fww # Her Telden Keyfime GÃ¶re | added:2026-07-14
+channel:UC5-wGmEZoYr6d3fHu818fww # Her Telden Keyfime GÃÂ¶re | added:2026-07-14
 channel:UCNp8G5PJVy00tWo9IXDfdvw # enzo | added:2026-07-14
 channel:UCIGb94OtlZZvgqHeNwr3yhw # Sohtenea | added:2026-07-14
 channel:UCT1c51z_3ESAWCA1uAj_ZxQ # Burak Esim | added:2026-07-14
@@ -239,82 +239,82 @@ channel:UC0SS2f5S9VWW4Oab6KA9U7A # Mila Deniz | added:2026-07-14
 channel:UCfCwGtQZXkC9H2Jchtewr5g # Rashad | added:2026-07-14
 channel:UCvbwGO5A0VT2BAgEkOCSMIg # YH Music LTD | added:2026-07-14
 channel:UCi3AugCbZFtAGTr4PPEKr0g # Han Music | added:2026-07-14
-channel:UCMatL1StKYH9a8S_kTrA90g # mAvipLak'â¡ | added:2026-07-14
-channel:UClRV2X4kigeCjpeyr6jMQqg # Bi Dzi Bi Flm & MÃ¼zik | added:2026-07-14
-channel:UC8wkKk4_JHWi_nqevFyZpBA # Manifamâ¼ï¸ | added:2026-07-14
+channel:UCMatL1StKYH9a8S_kTrA90g # mAvipLak'Ã¢ÂÂ¡ | added:2026-07-14
+channel:UClRV2X4kigeCjpeyr6jMQqg # Bi Dzi Bi Flm & MÃÂ¼zik | added:2026-07-14
+channel:UC8wkKk4_JHWi_nqevFyZpBA # ManifamÃ¢ÂÂ¼Ã¯Â¸Â | added:2026-07-14
 channel:UCMxsSBMNWZnbO_-MpTRQbtw # MirAy music | added:2026-07-14
 channel:UCt6ZIGWnfjnyMq5tisSP4xA # young crew | added:2026-07-14
 channel:UCugdb6ukuG5Ja7221snctgg # dakam | added:2026-07-14
-channel:UCT_Bl0WXncV-DE2vFEXj0tg # En Ã§ok dinlenen TÃ¼rkÃ§e ve YabancÄ± ÅarkÄ±lar 2026 | added:2026-07-14
-channel:UCwcXj8Y2I4SuJLHWfapnqxA # ð©ð ð¼ð³ð³ð¶ð°ð¶ð®ð¹ | added:2026-07-14
+channel:UCT_Bl0WXncV-DE2vFEXj0tg # En ÃÂ§ok dinlenen TÃÂ¼rkÃÂ§e ve YabancÃÂ± ÃÂarkÃÂ±lar 2026 | added:2026-07-14
+channel:UCwcXj8Y2I4SuJLHWfapnqxA # Ã°ÂÂÂ©Ã°ÂÂÂ Ã°ÂÂÂ¼Ã°ÂÂÂ³Ã°ÂÂÂ³Ã°ÂÂÂ¶Ã°ÂÂÂ°Ã°ÂÂÂ¶Ã°ÂÂÂ®Ã°ÂÂÂ¹ | added:2026-07-14
 channel:UCVvAuZ03JBPl36R_gqFlL_g # The Vibe Architect | added:2026-07-14
-channel:UC8qMXtfEGJtBZyazdExieGw # MAGAZÄ°NKOLÄ°K Nurcan Sabur | added:2026-07-14
+channel:UC8qMXtfEGJtBZyazdExieGw # MAGAZÃÂ°NKOLÃÂ°K Nurcan Sabur | added:2026-07-14
 channel:UC8Ewu_qYE5NByoiKtcQZxaw # ragator | added:2026-07-14
 channel:UC1OjIviXLJxXxpoqNMZ7vYg # Zeynep Sude oktay | added:2026-07-14
 channel:UCyBLkt7FX_bw2LIdmBRAYOQ # ManiFast | added:2026-07-14
-channel:UCHfm2kXJnTJN7l17rJ2frVQ # Now Dizi GÃ¼nlÃ¼ÄÃ¼ | added:2026-07-14
+channel:UCHfm2kXJnTJN7l17rJ2frVQ # Now Dizi GÃÂ¼nlÃÂ¼ÃÂÃÂ¼ | added:2026-07-14
 channel:UCKrOoVMv7gX0CBGYdhplvHA # Melis Fis Edit | added:2026-07-14
 channel:UCShp_dt-jbaSm31ulDE1rBA # LaraBilgic | added:2026-07-14
-channel:UCERPzQS-bxVzqSx2lTOEB-g # BÄ°LGÄ° AVCISI | added:2026-07-14
+channel:UCERPzQS-bxVzqSx2lTOEB-g # BÃÂ°LGÃÂ° AVCISI | added:2026-07-14
 channel:UC2Ih29m1P4DBDMFkjWG0GtA # MUZiKKANALLi2 | added:2026-07-14
 channel:UCnPzmSBBHuXACLywDTbN39Q # Arven Pop | added:2026-07-14
-channel:UCYVPHFA_ZFdGFa6hNz01NhA # TarÄ±k EYÄ°SU | added:2026-07-14
+channel:UCYVPHFA_ZFdGFa6hNz01NhA # TarÃÂ±k EYÃÂ°SU | added:2026-07-14
 channel:UCQusyEnzItHIUxGgHBEkXPg # GriSOKAK | added:2026-07-14
 channel:UCJm_Hy5tQ0O9oBA3VhVtiEw # thegustoss | added:2026-07-14
 channel:UCU5D1Hoco5-lubZuk4GQzYA # ISTANBUL SOUND VIBES | added:2026-07-14
 channel:UC8JpWg5GBCiKO1q5Welz7UA # Tehreem Edits | added:2026-07-14
-channel:UCtVwuQswPWBh5rxF_KeD3gA # PÄ±nar Åeker | added:2026-07-14
+channel:UCtVwuQswPWBh5rxF_KeD3gA # PÃÂ±nar ÃÂeker | added:2026-07-14
 channel:UCD8PEkTlchAJWLbI3bH8xUw # Emitasyon Pop | added:2026-07-14
 channel:UCoJqwTgi_lZpqKKai2na7kQ # Berkan Ural Music | added:2026-07-14
 channel:UChp2SN3AkbvkWO9NBFBlG1w # Rafis Music | added:2026-07-14
 channel:UCWZIYHhjgBh38Jw_Mk0MISw # Za1xjli | added:2026-07-14
 channel:UCIpub5XNfj-ZELvEIuYTHsw # NEO TURKISH SOUND | added:2026-07-14
-channel:UCYTJAbHHsHxw21QN0Xc14xw # HÃMA | added:2026-07-14
-channel:UC4Li7e1D86-TRaXV7icLNoA # Ãzhan GÃ¼l | added:2026-07-14
-channel:UCsz67YAF17IvV113-hFRMKw # 90LIK KARIÅIK KASET | added:2026-07-14
+channel:UCYTJAbHHsHxw21QN0Xc14xw # HÃÂMA | added:2026-07-14
+channel:UC4Li7e1D86-TRaXV7icLNoA # ÃÂzhan GÃÂ¼l | added:2026-07-14
+channel:UCsz67YAF17IvV113-hFRMKw # 90LIK KARIÃÂIK KASET | added:2026-07-14
 channel:UC7f4icWLwUS7ID4Zw4rB_sg # The Claw of Anatolia | added:2026-07-14
-channel:UCpVYLm7m_43VnDN_H7_zxdg # S.A MÃ¼zik | added:2026-07-14
+channel:UCpVYLm7m_43VnDN_H7_zxdg # S.A MÃÂ¼zik | added:2026-07-14
 channel:UCYvo6IkD99EBJTzxRmaVUMQ # pat TV | added:2026-07-21
-channel:UCtYmqste41Uz2rrZ2qvoaHQ # TR-LYRÄ°CS | added:2026-07-22
-channel:UCBBhwmUo8zXzhSs3WUVpHzA # Ã§aÄan | added:2026-07-22
+channel:UCtYmqste41Uz2rrZ2qvoaHQ # TR-LYRÃÂ°CS | added:2026-07-22
+channel:UCBBhwmUo8zXzhSs3WUVpHzA # ÃÂ§aÃÂan | added:2026-07-22
 channel:UCbfUN2zq9WqiegXxl11szVg # Hypatia Lyrics | added:2026-07-22
 channel:UCWwJbWz5-4LuA6JeMn4fRnw # mnicookie | added:2026-07-22
 channel:UCjm-d2u0gn3sQfxe0JL5oyA # Nuvira | added:2026-07-22
 channel:UCMeSTxM_5GTmgPI4NNLPHXQ # SoundAura | added:2026-07-22
-channel:UCsGdaxopCtfplZm0ZUDoYxg # ð ð¶ð¹ð®ð¼ðºð¶ð®ð® | added:2026-07-22
+channel:UCsGdaxopCtfplZm0ZUDoYxg # Ã°ÂÂÂ Ã°ÂÂÂ¶Ã°ÂÂÂ¹Ã°ÂÂÂ®Ã°ÂÂÂ¼Ã°ÂÂÂºÃ°ÂÂÂ¶Ã°ÂÂÂ®Ã°ÂÂÂ® | added:2026-07-22
 channel:UC0QIs4mOFFJ2LzGUUJ0Eqvw # Dreamstatic | added:2026-07-22
 channel:UClNiGwmxF89sHeX4-z46HYQ # no1rose | added:2026-07-22
-channel:UCSTEUVPEWsyy-6KUZU1rAUg # ð©ðð¡ð | added:2026-07-22
-channel:UC8NVPxShpxJ0ZB26-rl7niQ # ððððððððð | added:2026-07-22
+channel:UCSTEUVPEWsyy-6KUZU1rAUg # Ã°ÂÂÂ©Ã°ÂÂÂÃ°ÂÂÂ¡Ã°ÂÂÂ | added:2026-07-22
+channel:UC8NVPxShpxJ0ZB26-rl7niQ # Ã°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂ | added:2026-07-22
 channel:UC1ompV_MSQSe1qiW6PtSjBg # trpopgruplyrics | added:2026-07-22
 channel:UCcbdUH2I0QumisIbU03sqHA # Pinkieeeeeee | added:2026-07-22
 channel:UCbcqynMrWE8vi-Y6gJp_Ntw # KAREX | added:2026-07-22
 channel:UCLeAsW1XtVPYKF3YnVYaeHA # CCD_Manifest | added:2026-07-22
 channel:UCbD0DL3EfRcXNF_52b9n6pA # Edit Sahne | added:2026-07-22
-channel:UCkaET8Pi3D8jmF8B5KgnTmA # Film GÃ¼nlÃ¼ÄÃ¼ | added:2026-07-22
+channel:UCkaET8Pi3D8jmF8B5KgnTmA # Film GÃÂ¼nlÃÂ¼ÃÂÃÂ¼ | added:2026-07-22
 channel:UCUXM5hsD1tjUFiESyyhPe1A # kpopfan_random | added:2026-07-22
 channel:UCqHb_dGp65i9fgV5ziZh3fA # TRLine | added:2026-07-22
 channel:UCsCoPaMY3m4tJ-oocpKFcLA # Rubyessa | added:2026-07-22
 channel:UCrN1z6gn2_LDhACzp58q3ww # TwinStars | added:2026-07-22
 channel:UCHuw80q_I827l72BBMXdlag # Bil Tahmin Et | added:2026-07-23
-channel:UCAjZ_c-in94fqSbcu0sji-g # MÃ¼zik Kral TV HD | added:2026-07-26
+channel:UCAjZ_c-in94fqSbcu0sji-g # MÃÂ¼zik Kral TV HD | added:2026-07-26
 channel:UC8BWH2ZQWPzggxNqcordlDA # Asif | added:2026-07-26
-channel:UC5-wGmEZoYr6d3fHu818fww # Her Telden Keyfime GÃ¶re | added:2026-07-26
-channel:UCeu0D7pzlnOQQZKin2cJZoA # Mustafa KatÄ± | added:2026-07-26
+channel:UC5-wGmEZoYr6d3fHu818fww # Her Telden Keyfime GÃÂ¶re | added:2026-07-26
+channel:UCeu0D7pzlnOQQZKin2cJZoA # Mustafa KatÃÂ± | added:2026-07-26
 channel:UCugdb6ukuG5Ja7221snctgg # dakam | added:2026-07-26
 channel:UC0SS2f5S9VWW4Oab6KA9U7A # Mila Deniz | added:2026-07-26
-channel:UCMatL1StKYH9a8S_kTrA90g # mAvipLak'â¡ | added:2026-07-26
-channel:UCGhPMZata2f60tE-0KH6AVA # MÃ¼zik AÅÄ±ÄÄ± | added:2026-07-26
+channel:UCMatL1StKYH9a8S_kTrA90g # mAvipLak'Ã¢ÂÂ¡ | added:2026-07-26
+channel:UCGhPMZata2f60tE-0KH6AVA # MÃÂ¼zik AÃÂÃÂ±ÃÂÃÂ± | added:2026-07-26
 channel:UCd966WPK92XmOr91rGzT2kQ # VAN TR Music | added:2026-07-26
-channel:UCkFyiG5F8BrZjRNxPzdXfyg # MÃZÄ°KALSTAR | added:2026-07-26
+channel:UCkFyiG5F8BrZjRNxPzdXfyg # MÃÂZÃÂ°KALSTAR | added:2026-07-26
 channel:UC2YmD0bGdvLVlpOrNfCDcCw # Ege Uysal | added:2026-07-26
 channel:UCC80O4Pv7WBIgxTY3Zr9ONA # erowakeup! | added:2026-07-26
-channel:UC51Sr3IH8nrvBjhwR2wED9A # TAT MÃ¼zik | added:2026-07-26
+channel:UC51Sr3IH8nrvBjhwR2wED9A # TAT MÃÂ¼zik | added:2026-07-26
 channel:UCiNKAS8P2CZbuvmq1n4BLRA # LIFE MUSIC BY AI | added:2026-07-26
 channel:UCf9bquhwFgqq-dSoEO_VkWw # Loop TR | added:2026-07-26
 channel:UChQwJOd7VoE0HLHqhSpVeJg # Bosphorus Beats | added:2026-07-26
-channel:UCG-Uzy4Bm58jCjSPOAjCepg # Hit DuraÄÄ± | added:2026-07-26
-channel:UCgr12TQX1T2wxRWwbDG0PJw # BG REMÄ°X | added:2026-07-26
+channel:UCG-Uzy4Bm58jCjSPOAjCepg # Hit DuraÃÂÃÂ± | added:2026-07-26
+channel:UCgr12TQX1T2wxRWwbDG0PJw # BG REMÃÂ°X | added:2026-07-26
 channel:UCZfIwfN5K72BFJCPym9bKFA # Turkish Desert Vibes | added:2026-07-26
 channel:UCZfIwfN5K72BFJCPym9bKFA # Turkish Desert Vibes | added:2026-07-26
 channel:UCZfIwfN5K72BFJCPym9bKFA # Turkish Desert Vibes | added:2026-07-26
@@ -324,13 +324,13 @@ channel:UCD1llvJno4xk4Baz91mRe4Q # PopNova | added:2026-07-26
 channel:UCAJlev5sOLSwZITX6gEXP0Q # SoulWave Global | added:2026-07-26
 channel:UCDpG9YQY3Ys2l5ymQIa3_SQ # VOCALID MUSIC | added:2026-07-26
 channel:UC4kgr8-YP9UjybGr8lNadmA # EnnoSound | added:2026-07-26
-channel:UCvGCldSWSAzwtCKkn1qv9Sw # âà¼ºð©ð¦ð¶ððð¶ðªà¼»â | added:2026-07-28
+channel:UCvGCldSWSAzwtCKkn1qv9Sw # Ã¢ÂÂÃ Â¼ÂºÃ°ÂÂÂ©Ã°ÂÂÂ¦Ã°ÂÂÂ¶Ã°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂ¶Ã°ÂÂÂªÃ Â¼Â»Ã¢ÂÂ | added:2026-07-28
 channel:UCQBVb-cJUCuDYliauuF4PZA # EmojiAbi | added:2026-07-28
 channel:UC_dx_Zn8kA_mScYU6Gv9xKQ # By Bilgili | added:2026-07-28
 channel:UCcGudsBSLRwrIigr_Ghybxw # Hemen Bak | added:2026-07-28
-channel:UCk27Ri67RQGeC4wjnyqDU_w # ÅarkÄ± SÃ¶zleri KÃ¼tÃ¼phanesi | added:2026-07-28
-channel:UC4cROtzhH8TT402S0LP6pKg # Birisini SeÃ§ | added:2026-07-28
-channel:UCoqIXka7wUrGpBVQ8DvOSYQ # Soru Åekerleri | added:2026-07-28
+channel:UCk27Ri67RQGeC4wjnyqDU_w # ÃÂarkÃÂ± SÃÂ¶zleri KÃÂ¼tÃÂ¼phanesi | added:2026-07-28
+channel:UC4cROtzhH8TT402S0LP6pKg # Birisini SeÃÂ§ | added:2026-07-28
+channel:UCoqIXka7wUrGpBVQ8DvOSYQ # Soru ÃÂekerleri | added:2026-07-28
 channel:UCxNBqewDWQ88XMsr4ShzVFg # ManifestMix | added:2026-07-28
 channel:UCXcPzyC7vQ_eDV7K7u7cG2Q # ASound | added:2026-07-28
 channel: # added:2026-07-28
@@ -339,3 +339,4 @@ channel: # added:2026-07-28
 channel: # added:2026-07-28
 channel: # added:2026-07-28
 channel:UCt-UmsKKmsR__Ldcptklg0A # Haydibul | added:2026-08-01
+channel:UC1F4gVuaUTmASXM_4FPloPA # Serhat Uzunkök | added:2026-08-01
