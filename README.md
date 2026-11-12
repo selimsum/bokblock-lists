@@ -8,14 +8,16 @@ content.
 
 | List | Description | URL |
 |------|-------------|-----|
-| `ai-slop.txt` | English-language AI slop channels and title patterns | [Subscribe](#subscribing) |
+| `global.txt` | English-language AI slop channels and title patterns | [Subscribe](#subscribing) |
+| `turkish.txt` | Turkish-language content farms (music reuploads, dizi, gossip) | [Subscribe](#subscribing) |
 
 ## Subscribing
 
-In the BlockTube extension options → **Filter Lists** tab, click **Add list** and enter:
+In the BlockTube extension options → **Filter Lists** tab, click **Add list** and enter one of:
 
 ```
-https://cdn.jsdelivr.net/gh/selimsum/bokblock-lists@latest/ai-slop.txt
+https://cdn.jsdelivr.net/gh/selimsum/bokblock-lists@latest/global.txt
+https://cdn.jsdelivr.net/gh/selimsum/bokblock-lists@latest/turkish.txt
 ```
 
 The extension checks for updates once daily and applies them automatically.
