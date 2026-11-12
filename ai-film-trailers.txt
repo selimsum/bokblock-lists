@@ -1,0 +1,57 @@
+# BlockTube Filter List - AI Film Trailers
+# Format version: 1
+# Last updated: auto (do not edit this line manually)
+#
+# English-language channels creating AI-generated film trailers, concept
+# trailers, fan trailers and AI films.
+
+channel:UCYEOgRj8NRDrTHWEO-HNLxg # A.I. Film Forge | added:2026-11-12
+channel:UC-fha_bd0Ia9-z5KjZgjtzA # A25 Productions | added:2026-11-12
+channel:UCUdiWYoAFgSzCvRofWm8baA # A_Geeky_Channel | added:2026-11-12
+channel:UCEC4_kBaGfVicaAEPuzfq-A # AI Talk | added:2026-11-12
+channel:UC6gf2t9dKojAJcAFaFZFHuw # AI Trailer Cinema | added:2026-11-12
+channel:UCxuTsYwaExrucAlcZz2-8mQ # Ai Trailer Studio | added:2026-11-12
+channel:UCprglrhu9UVdEtChznwI4Sw # AI Verse PH | added:2026-11-12
+channel:UCZEVSb5hKyhNKJaxK9RisJw # AI VIDEOS | added:2026-11-12
+channel:UCdjx530TfbEBB2932AGpiZw # AIM Media Pro | added:2026-11-12
+channel:UC0L-r1nChMkUQuYBWphz1bg # Beyond The Fold | added:2026-11-12
+channel:UC90XwXfeBMeNfeO7KmUNpYg # Bob Doyle Media | added:2026-11-12
+channel:UCOcNoYGmP_9KoCrnwPYyhQw # Cinelution | added:2026-11-12
+channel:UCvWfGQyLH0zBYWDh5lAdi5w # Cinema Lens | added:2026-11-12
+channel:UCf5pJzhnrxaGbRDCqs9CBsg # CINEOVA Films | added:2026-11-12
+channel:UCSPlnKKM2yNgQxHP7G3V8aw # Culture Studios | added:2026-11-12
+channel:UCqXHLiec7FNSIx5j2k5v6jw # DotDotDot Studio | added:2026-11-12
+channel:UC5FCyk1QkTBLgWm-w866PGg # Epic AI Films | added:2026-11-12
+channel:UCioGeEHXAldL1fzYA5GGQ9g # Frank AI Universe 001 | added:2026-11-12
+channel:UC9hE1VoU9JoC8VLUHe1MXTw # GenFlix | added:2026-11-12
+channel:UC7-KEwXVjeWKL7Cpy23ehdg # Heartbeats & secrets Ai | added:2026-11-12
+channel:UCn1hC2F5hyae0Mn31tGQHyg # History Dormant | added:2026-11-12
+channel:UCQ93_bjI3RdXPi1uGQ2CiZg # Hollywood Artificial | added:2026-11-12
+channel:UCS0j-ZdFkXMokXN-gi4QAkA # Illuvai | added:2026-11-12
+channel:UCJeF1rmzWV_fQJq49a057Uw # Iron Movies HD | added:2026-11-12
+channel:UCfqVWEFO06fKI650earkt7g # J10effect | added:2026-11-12
+channel:UCxvWabMqFL0kQ27H3pGgz5w # Karma ai films | added:2026-11-12
+channel:UC-wxYDwYxXr6caz4WU96_OQ # Mooch Entertainment | added:2026-11-12
+channel:UCK3dbQsJsDOiDvyxYnJAYaA # Mrs. Terror | added:2026-11-12
+channel:UCkavqDiqPboObC04PNGTrmA # New Erai Films | added:2026-11-12
+channel:UCBoj4M-9Y1zwjkB0EYCteow # Off the Record | added:2026-11-12
+channel:UChE_nT86m4PQ0JB_Nh_wNew # Oneshot | added:2026-11-12
+channel:UC-tCW7sRP5KYa791o-onKtg # Particle Panic | added:2026-11-12
+channel:UCi2iVBVXZKEx_7G954HOKww # Pocket Multiverse | added:2026-11-12
+channel:UCMssRPMaJAq5NdpXz16Afpg # Project Film AI | added:2026-11-12
+channel:UCLaBLGAcVBVCCLsJOMOkmlA # Reverie | added:2026-11-12
+channel:UCAVIanEjQdfNe-WMi-oam7g # Reverie Lab ☂️ | added:2026-11-12
+channel:UCdgZlLka1o3c2bkdHDDdZpQ # Stellar Cinema | added:2026-11-12
+channel:UC-2K3C7wjKtiJPjq7mL8YRw # stryder HD | added:2026-11-12
+channel:UCqj4VX1UfL-6ktZ_MZyPUIw # SynthCinemaX | added:2026-11-12
+channel:UCwQjQ4WrqXQcVUe2HNpd9Mg # Teer | added:2026-11-12
+channel:UC1HV1nFolsmi7AOW1dNpLxQ # TrailersVerse | added:2026-11-12
+channel:UCT9gR8gD1O1fGpQTAH8CWmw # TunnelVision | added:2026-11-12
+channel:UCJakSTwVum18K1aCW25OyMw # Turbo Movieverse | added:2026-11-12
+channel:UCc3qOMA8TN5b3PPRlGAFA0Q # Ultimate Studios | added:2026-11-12
+channel:UCG8iIQ8YUezsJ4U_twh1ugw # What If Cinema | added:2026-11-12
+channel:UCRY-sHfZLiE20qFkqEY9dew # Wicklo AI | added:2026-11-12
+channel:UCEf1-0654ezD-3CpHnLOFGg # 𝘼𝙎𝙏𝙍𝙊𝘿𝙐𝙎𝙏 | added:2026-11-12
+channel:UCarvqnnCv1rvwcPmnxmHLAg # AI Photo Lab | added:2026-11-12
+channel:UCXT0MJ1iVCnkgGzkywJHiVg # BZ Motion | added:2026-11-12
+channel:UC2lbMFloVkcFel7GiIcdFAQ # EscapedToons | added:2026-11-12
