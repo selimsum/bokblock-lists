@@ -1,0 +1,37 @@
+# BlockTube Filter List - AI Celebrity Slop
+# Format version: 1
+# Last updated: auto (do not edit this line manually)
+#
+# English-language channels creating AI-generated slop videos about celebrities
+# (AI parodies, AI recasts, deepfakes, AI-generated gossip/transformation videos).
+
+channel:UCrlo75rAWqhCbGnyyYw2kMw # 9x9 | added:2026-11-12
+channel:UCNacLQgdojnsbGQyU9li5Hg # AI Starvision | added:2026-11-12
+channel:UChkVgtYA4t59sX3ceCPOMoQ # Andre AI | added:2026-11-12
+channel:UCfnNf9hicwwgo98TF-7Yf9g # Arabella vs Celebrity | added:2026-11-12
+channel:UCF6hiIEwaIYY5QBpD9ONpdA # BigCountryXclusive | added:2026-11-12
+channel:UCTAhnQVCcIlHlgFfnW7gJkg # birbfakes | added:2026-11-12
+channel:UCQZrVzKNUhAncAa7s6qD6qw # BoldlyWithAI | added:2026-11-12
+channel:UCT5cmc2tZET3ch-A4UYQTvw # Cast Now | added:2026-11-12
+channel:UCxGfWC0VFsqKeFXGrNHBLKw # Celeb Kiss | added:2026-11-12
+channel:UCiDOSIO12H0gSWxX1mpmrOw # CelebMoves | added:2026-11-12
+channel:UC6zCkqB43hTMu9bLWt7Bp9w # Celebrities /React | added:2026-11-12
+channel:UCOEG_cR9waNY0r6XbMnwXAQ # CETLEIWS | added:2026-11-12
+channel:UCk5Kbbq3vyt9h4o790nmSrQ # FAMECELEBS AI | added:2026-11-12
+channel:UCdRMC1o7PYQLjiFQ6hWXEWg # G.B LOL Studio | added:2026-11-12
+channel:UC0slAAixHhT7vjKzQlTMyJw # GOAT AiArt | added:2026-11-12
+channel:UCYFazPQETrQZQzDTezoChcw # Golden Screen Memories | added:2026-11-12
+channel:UCX83nfsl5spSm1HPmqCiUtQ # Logiteria | added:2026-11-12
+channel:UCjKIjnMPGbR4Hlf3t7j0CLg # LOL Celebrities | added:2026-11-12
+channel:UCrqHNpa1-u7wfp-JIXTFhXQ # Look in History | added:2026-11-12
+channel:UCBK-eYuC5xr-SaLrGr2W9Dg # Meta Video | added:2026-11-12
+channel:UCimFLIw1507hlq-rCbiMb3A # Mr. Newberger's AI Funnies | added:2026-11-12
+channel:UCUn8e_JNkbCVmCMGsixgMyw # Party News AI | added:2026-11-12
+channel:UCLPTbPRYqre2UTEVzYpN8KA # RetroStar Music | added:2026-11-12
+channel:UC2ixcIQNDC-hbIvVoCalhjw # Vrhunske Price | added:2026-11-12
+channel:UC2lixhqDUeRNyrbfFSxhuEQ # Your Daily Dose Of A.I | added:2026-11-12
+channel:UCm36tgXY0VyvnCPVvddu8mQ # CNTR SGNL | added:2026-11-12
+channel:UC_bT42xFAyBvsV4NuGk3bHQ # Eros AI OFM | added:2026-11-12
+channel:UCzN-9BNAJ3Zl5kfc2XDZkAw # The Idol Star | added:2026-11-12
+channel:UCJ45ZO2RwTXAiouDwEMm2dA # ToonShift | added:2026-11-12
+channel:UCd68mul5cXN8NPKzeP6gv2w # 𝔊𝔯𝔢𝔞𝔱 𝔐𝔦𝔫𝔡𝔰 𝔬𝔣 ℌ𝔦𝔰𝔱𝔬𝔯𝔶 | added:2026-11-12
