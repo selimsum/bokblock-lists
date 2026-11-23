@@ -9,6 +9,10 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -23,27 +27,29 @@ jobs:
         id: tag
         run: echo "TAG=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
 
-      - name: Delete existing release for today (if any)
+      - name: Create or update release and upload list files
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release delete "${{ steps.tag.outputs.TAG }}" --yes 2>/dev/null || true
-          git push --delete origin "refs/tags/${{ steps.tag.outputs.TAG }}" 2>/dev/null || true
+          TAG="${{ steps.tag.outputs.TAG }}"
 
-      - name: Create release and upload list files
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
           # Update the "Last updated" line in each .txt file before uploading
           for f in *.txt; do
-            sed -i "s/^# Last updated: .*/# Last updated: $(date -u +%Y-%m-%d)/" "$f"
+            sed -i "s/^# Last updated: .*/# Last updated: $TAG/" "$f"
           done
 
-          # Create the release with all .txt files as assets
-          gh release create "${{ steps.tag.outputs.TAG }}" \
-            --title "Filter Lists ${{ steps.tag.outputs.TAG }}" \
-            --notes "Automated daily release of BlockTube filter lists." \
-            *.txt
+          # Point today's tag to the current commit
+          git tag -f "$TAG"
+          git push origin "refs/tags/$TAG" --force
+
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" *.txt --clobber
+          else
+            gh release create "$TAG" \
+              --title "Filter Lists $TAG" \
+              --notes "Automated daily release of BlockTube filter lists." \
+              *.txt
+          fi
 
       - name: Update latest tag
         env:
